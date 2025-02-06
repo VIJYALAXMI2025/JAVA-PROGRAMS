@@ -4,7 +4,7 @@ public class VariablesAndDataTypes {
         int integerVar = 10;
         double doubleVar = 20.5;
         char charVar = 'A';
-        String stringVar = "Hello, This is Aswin";
+        String stringVar = "Hello, This is laxmi";
         boolean boolVar = true;
 
         // Display the values of the variables
