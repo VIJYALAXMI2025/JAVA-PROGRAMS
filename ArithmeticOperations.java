@@ -1,8 +1,8 @@
 public class ArithmeticOperations {
     public static void main(String[] args) {
         // Declare two integers
-        int a = 10;
-        int b = 5;
+        int a = 20;
+        int b = 10;
 
         // Perform and display various arithmetic operations
         System.out.println("Addition: " + (a + b));
